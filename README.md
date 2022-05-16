@@ -5,7 +5,8 @@ for the 2022 PSI Quantum Information and Holography course (lecture by Beni Yosh
 ## Problem outline
 We numerically study the behavior of **integrable** quantum systems versus systems
 exhibiting **scrambling**. We study chains with 8 qubits. Our goal is to see how an operator
-spreads over time.<br>
+spreads over time. Quantum scrambling consists of two different mechanisms: spreading of information and
+entanglement transport. <br>
 
 An integrable system is one with extensively many (local) conserved quantities. Our prototypical example
 is the transverse-field Ising model <img src="https://render.githubusercontent.com/render/math?math=H_i ">. By performing a **Jordan-Wigner** transformation, we can map this Hamiltonian to non-interacting fermions,
